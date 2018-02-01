@@ -4,6 +4,7 @@
 from sklearn.cluster import KMeans;
 import numpy as np;
 import images.loader as images;
+import util;
 import sys;
 
 print sys.argv
@@ -29,15 +30,8 @@ print kmeans.labels_[:10];
 print kmeans.cluster_centers_
 labels = kmeans.labels_;
 
-violet = np.array([138,43,226]);
-sky = np.array([0,191,255]);
-forest = np.array([34,139,34]);
-lookup = [sky, forest, violet];
 
-print 'mapping pixels to clusters to render image...'
-prediction = np.array(image); ## create a copy
-for index, label in enumerate(labels):
-    prediction[index] = lookup[label];
+prediction = util.map_image_labels_to_prediction(image, labels);
 
 prediction = images.reravel(prediction, size);
 images.save(prediction, "images/pred/kmeans/camel_"+camel_number+".jpg");
