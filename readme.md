@@ -23,6 +23,8 @@ Your ground-truth should be the image manually segmented.
             - sky is a very distinct different color
     - i manually labeled the images with black, gray, and white
         - see `/images/labels`
+- generate 'blurred' sources
+    - n order to conduct roc we need to vary something. i will be varying the source images by blurring them as recommended by the professor.
 - functional code
     - segmentation (kmeans.py and manual_threshold.py)
         - segments source images. generates predictions under `/images/pred`
@@ -36,7 +38,5 @@ Your ground-truth should be the image manually segmented.
         - this takes care of loading the images, unwraping the images from matrix form into list form, rewraping labeled/modified images from an array and back into matrix form (see `/images/pred`)
 
 ## left to complete
-- generate 'blurred' sources
-    - in order to conduct roc we need to vary something. I will be varying the source images by blurring them.
 - `build_report.py`
     - this script will have the functionality that will run segmentation on the remaining blurred images not yet segmented, then run evaluation on each set, then combine the results into an ROC curve
