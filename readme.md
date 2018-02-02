@@ -26,7 +26,7 @@ Additionally, an output log is included to demonstrate what a successful output 
 2. ensure python package dependencies are satisfied
     - ensure python version is atleast `2.7.12`
     - ensure packages `Pillow` and `Scikit-Learn` are available
-        - e.g., `sudo pip install scikit-learn pillow`
+        - e.g., `sudo pip install scikit-learn pillow numpy matplotlib`
 
 #### running
 

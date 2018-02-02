@@ -10,6 +10,8 @@ import evaluate as evaluate;
 import kmeans;
 import manual_threshold as manual;
 import util;
+import sys
+
 
 pred_methods = dict({"kmeans":kmeans, "manual":manual})
 segmentation_options = list(pred_methods.keys());

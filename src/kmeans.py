@@ -14,7 +14,7 @@ def segment(source_path, output_path):
     print("------ segmenting with kmeans on " + source_path + " ------")
 
     bool_overwrite = "OVERWRITE" in os.environ and os.environ["OVERWRITE"] == "true"; ## if environmental variable set to overwrite, overwrite
-    if(os.path.isfile(source_path) and not bool_overwrite):
+    if(os.path.isfile(output_path) and not bool_overwrite):
         print(output_path + " already exists");
         return True;
 
