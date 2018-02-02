@@ -1,0 +1,2360 @@
+------ segmenting with manual threshold on images/source/camel_1.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_1.blur_1.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_1.blur_2.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_1.blur_3.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_1.blur_4.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_1.blur_5.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_2.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_2.blur_1.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_2.blur_2.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_2.blur_3.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_2.blur_4.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_2.blur_5.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_3.jpg ------
+image[:5] :
+[[143 167 203]
+ [143 167 203]
+ [144 168 204]
+ [145 169 205]
+ [145 169 205]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_3.blur_1.jpg ------
+image[:5] :
+[[140 164 198]
+ [140 164 198]
+ [140 164 198]
+ [140 164 198]
+ [140 164 198]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_3.blur_2.jpg ------
+image[:5] :
+[[138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_3.blur_3.jpg ------
+image[:5] :
+[[138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_3.blur_4.jpg ------
+image[:5] :
+[[138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_3.blur_5.jpg ------
+image[:5] :
+[[138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_4.jpg ------
+image[:5] :
+[[172 173 193]
+ [173 174 194]
+ [171 174 193]
+ [172 175 194]
+ [171 174 193]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_4.blur_1.jpg ------
+image[:5] :
+[[172 175 194]
+ [172 175 194]
+ [172 175 194]
+ [171 174 193]
+ [171 174 193]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_4.blur_2.jpg ------
+image[:5] :
+[[172 175 194]
+ [172 175 194]
+ [172 175 194]
+ [171 174 193]
+ [171 174 193]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_4.blur_3.jpg ------
+image[:5] :
+[[172 175 194]
+ [172 175 194]
+ [172 175 194]
+ [171 174 193]
+ [171 174 193]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_4.blur_4.jpg ------
+image[:5] :
+[[172 175 194]
+ [172 175 194]
+ [171 174 193]
+ [171 174 193]
+ [171 174 193]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_4.blur_5.jpg ------
+image[:5] :
+[[172 175 194]
+ [172 174 195]
+ [171 174 193]
+ [171 174 193]
+ [169 174 193]]
+applying manual thresholds...
+<type 'list'>
+[2, 2, 2, 2, 2]
+mapping pixels to clusters to render image...
+[[138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]
+ [138  43 226]]
+
+------ segmenting with manual threshold on images/source/camel_8.jpg ------
+image[:5] :
+[[108 148 218]
+ [107 147 217]
+ [107 147 217]
+ [108 148 218]
+ [111 151 221]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_8.blur_1.jpg ------
+image[:5] :
+[[110 150 219]
+ [110 150 219]
+ [110 150 219]
+ [110 150 219]
+ [112 152 221]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_8.blur_2.jpg ------
+image[:5] :
+[[112 152 221]
+ [112 152 221]
+ [112 152 221]
+ [112 152 221]
+ [114 154 223]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_8.blur_3.jpg ------
+image[:5] :
+[[112 152 221]
+ [112 152 221]
+ [113 153 222]
+ [114 154 223]
+ [116 156 225]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_8.blur_4.jpg ------
+image[:5] :
+[[113 153 222]
+ [113 153 222]
+ [114 154 223]
+ [114 154 223]
+ [115 155 224]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_8.blur_5.jpg ------
+image[:5] :
+[[114 154 223]
+ [114 154 223]
+ [115 155 224]
+ [115 155 224]
+ [116 156 225]]
+applying manual thresholds...
+<type 'list'>
+[1, 1, 1, 1, 1]
+mapping pixels to clusters to render image...
+[[ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]
+ [ 34 139  34]]
+
+------ segmenting with manual threshold on images/source/camel_10.jpg ------
+image[:5] :
+[[ 39  77 114]
+ [ 42  80 117]
+ [ 46  81 121]
+ [ 46  81 121]
+ [ 46  77 123]]
+applying manual thresholds...
+<type 'list'>
+[0, 0, 0, 0, 0]
+mapping pixels to clusters to render image...
+[[  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]]
+
+------ segmenting with manual threshold on images/source/camel_10.blur_1.jpg ------
+image[:5] :
+[[ 41  78 120]
+ [ 41  78 120]
+ [ 43  78 120]
+ [ 43  78 120]
+ [ 45  76 120]]
+applying manual thresholds...
+<type 'list'>
+[0, 0, 0, 0, 0]
+mapping pixels to clusters to render image...
+[[  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]]
+
+------ segmenting with manual threshold on images/source/camel_10.blur_2.jpg ------
+image[:5] :
+[[ 42  79 121]
+ [ 42  79 121]
+ [ 44  79 121]
+ [ 44  79 121]
+ [ 46  77 121]]
+applying manual thresholds...
+<type 'list'>
+[0, 0, 0, 0, 0]
+mapping pixels to clusters to render image...
+[[  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]]
+
+------ segmenting with manual threshold on images/source/camel_10.blur_3.jpg ------
+image[:5] :
+[[ 42  79 121]
+ [ 42  79 121]
+ [ 44  79 121]
+ [ 44  79 121]
+ [ 46  77 121]]
+applying manual thresholds...
+<type 'list'>
+[0, 0, 0, 0, 0]
+mapping pixels to clusters to render image...
+[[  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]]
+
+------ segmenting with manual threshold on images/source/camel_10.blur_4.jpg ------
+image[:5] :
+[[ 43  80 122]
+ [ 43  80 122]
+ [ 45  80 122]
+ [ 45  80 122]
+ [ 47  78 122]]
+applying manual thresholds...
+<type 'list'>
+[0, 0, 0, 0, 0]
+mapping pixels to clusters to render image...
+[[  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]]
+
+------ segmenting with manual threshold on images/source/camel_10.blur_5.jpg ------
+image[:5] :
+[[ 43  80 122]
+ [ 43  80 122]
+ [ 45  80 122]
+ [ 45  80 122]
+ [ 47  78 122]]
+applying manual thresholds...
+<type 'list'>
+[0, 0, 0, 0, 0]
+mapping pixels to clusters to render image...
+[[  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]
+ [  0 191 255]]
+
+------ segmenting with kmeans on images/source/camel_1.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[ 221.46048124  219.23760777  223.11112452]
+ [ 247.99169745  160.04700633   69.78477096]
+ [ 106.19742593   55.1330435    11.20754587]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_1.blur_1.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 247.65554753  159.86523994   69.60119897]
+ [ 221.34794767  219.1954924   222.98694192]
+ [ 107.44921746   56.32212617   12.1455789 ]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_1.blur_2.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[ 221.32914766  219.16385201  222.92794298]
+ [ 247.52905372  159.78907963   69.52038065]
+ [ 108.10214747   56.87944727   12.54656045]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_1.blur_3.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 247.44112626  159.7392375    69.45298326]
+ [ 221.31544562  219.13706244  222.87510224]
+ [ 108.59170867   57.29660522   12.84417704]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_1.blur_4.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 247.37811319  159.71000688   69.39695632]
+ [ 221.30528559  219.11329149  222.82822451]
+ [ 109.04819243   57.68166241   13.11662701]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_1.blur_5.jpg ------
+image[:5] :
+[[219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]
+ [219 222 239]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 247.31877933  159.68249895   69.34312088]
+ [ 221.29582559  219.0904535   222.7815796 ]
+ [ 109.42430234   57.9996867    13.34755399]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_2.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+running k means...
+[2 2 2 2 2 2 2 2 2 2]
+[[  80.12854537   52.81004328   36.2644229 ]
+ [ 179.40205208  140.22514207  105.76707394]
+ [ 237.08767715  229.32728203  220.81567999]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_2.blur_1.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+running k means...
+[2 2 2 2 2 2 2 2 2 2]
+[[  84.54497656   57.75466495   41.41961577]
+ [ 176.8336491   137.64722241  103.25872522]
+ [ 236.33767812  228.28008395  219.41957362]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_2.blur_2.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+running k means...
+[2 2 2 2 2 2 2 2 2 2]
+[[  85.86071098   58.99285318   42.44934271]
+ [ 176.151456    137.07210743  102.79936235]
+ [ 235.9816728   227.75346389  218.71229376]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_2.blur_3.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+running k means...
+[2 2 2 2 2 2 2 2 2 2]
+[[ 175.62525022  136.63817727  102.44770204]
+ [  86.63029556   59.72525626   43.00754308]
+ [ 235.6672891   227.32778998  218.1241652 ]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_2.blur_4.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+running k means...
+[2 2 2 2 2 2 2 2 2 2]
+[[ 175.4630049   136.49527125  102.32380598]
+ [  87.83421697   60.83136215   43.89396411]
+ [ 235.42794147  227.00914855  217.68381562]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_2.blur_5.jpg ------
+image[:5] :
+[[239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]
+ [239 232 224]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 175.21052347  136.28636628  102.15391689]
+ [ 235.1955874   226.72036721  217.31847859]
+ [  88.56776108   61.5081803    44.42925246]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_3.jpg ------
+image[:5] :
+[[143 167 203]
+ [143 167 203]
+ [144 168 204]
+ [145 169 205]
+ [145 169 205]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[ 179.63904514  190.7584779   202.98839045]
+ [  98.70824491   81.11311729   24.86856334]
+ [ 173.14312887  143.68319082   88.76190075]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_3.blur_1.jpg ------
+image[:5] :
+[[140 164 198]
+ [140 164 198]
+ [140 164 198]
+ [140 164 198]
+ [140 164 198]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 168.83838039  139.60739315   85.26688106]
+ [ 179.79960717  191.0614736   203.3485676 ]
+ [ 102.84288536   85.79294065   29.23811949]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_3.blur_2.jpg ------
+image[:5] :
+[[138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[ 179.80696922  191.14997881  203.47548831]
+ [ 104.90838886   87.72219448   30.88533077]
+ [ 168.31295515  139.14797461   85.27636289]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_3.blur_3.jpg ------
+image[:5] :
+[[138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 167.66392313  138.60938405   84.87800899]
+ [ 179.81400046  191.21961379  203.56741215]
+ [ 105.77018831   88.5128202    31.8220915 ]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_3.blur_4.jpg ------
+image[:5] :
+[[138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 106.77933965   89.46068069   32.67629218]
+ [ 179.81492997  191.25470254  203.59569749]
+ [ 167.35015757  138.31461548   84.80679409]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_3.blur_5.jpg ------
+image[:5] :
+[[138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]
+ [138 162 196]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 167.181679    138.15366      84.81316004]
+ [ 179.81438817  191.28624943  203.63888862]
+ [ 107.73926535   90.34909187   33.47252839]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_4.jpg ------
+image[:5] :
+[[172 173 193]
+ [173 174 194]
+ [171 174 193]
+ [172 175 194]
+ [171 174 193]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[ 171.31908658  176.7158255   189.83547067]
+ [ 200.81209077  158.97066027   92.89676113]
+ [ 132.88730644   94.65255209   31.4006882 ]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_4.blur_1.jpg ------
+image[:5] :
+[[172 175 194]
+ [172 175 194]
+ [172 175 194]
+ [171 174 193]
+ [171 174 193]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[ 170.95820659  176.30841714  189.40832301]
+ [ 197.83294524  157.11357035   92.38380104]
+ [ 139.58248068  101.95040718   41.07673836]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_4.blur_2.jpg ------
+image[:5] :
+[[172 175 194]
+ [172 175 194]
+ [172 175 194]
+ [171 174 193]
+ [171 174 193]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[ 170.92885379  176.17740366  189.16499801]
+ [ 141.28863005  103.86044027   43.56251336]
+ [ 196.93274298  156.78127819   92.81240207]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_4.blur_3.jpg ------
+image[:5] :
+[[172 175 194]
+ [172 175 194]
+ [172 175 194]
+ [171 174 193]
+ [171 174 193]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 196.25792504  156.54726824   93.2188932 ]
+ [ 170.9124735   176.07932431  188.98426255]
+ [ 142.27099738  105.00317148   45.09481627]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_4.blur_4.jpg ------
+image[:5] :
+[[172 175 194]
+ [172 175 194]
+ [171 174 193]
+ [171 174 193]
+ [171 174 193]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[ 170.90081993  176.00322188  188.84482105]
+ [ 195.71019182  156.37319583   93.60510755]
+ [ 142.95710456  105.83791332   46.22117962]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_4.blur_5.jpg ------
+image[:5] :
+[[172 175 194]
+ [172 174 195]
+ [171 174 193]
+ [171 174 193]
+ [169 174 193]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[ 170.884133    175.93711961  188.72062601]
+ [ 143.72173324  106.74633266   47.36538028]
+ [ 195.3121545   156.27706719   94.01244362]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_8.jpg ------
+image[:5] :
+[[108 148 218]
+ [107 147 217]
+ [107 147 217]
+ [108 148 218]
+ [111 151 221]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 145.05142911  110.63021813   64.97846935]
+ [ 133.32768299  176.14034122  237.0672262 ]
+ [  41.72996942   25.37217125   16.25137615]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_8.blur_1.jpg ------
+image[:5] :
+[[110 150 219]
+ [110 150 219]
+ [110 150 219]
+ [110 150 219]
+ [112 152 221]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[ 132.38618134  174.68349284  235.24271173]
+ [ 142.9803759   111.66703519   69.7414778 ]
+ [  57.75324274   41.02594194   30.31686226]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_8.blur_2.jpg ------
+image[:5] :
+[[112 152 221]
+ [112 152 221]
+ [112 152 221]
+ [112 152 221]
+ [114 154 223]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 142.1619969   112.37108698   72.30400657]
+ [ 132.05232671  174.10504143  234.3388487 ]
+ [  62.56234414   46.35286783   35.26371571]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_8.blur_3.jpg ------
+image[:5] :
+[[112 152 221]
+ [112 152 221]
+ [113 153 222]
+ [114 154 223]
+ [116 156 225]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 141.37695207  112.771944     74.5279124 ]
+ [ 131.83565715  173.71678147  233.63251305]
+ [  64.97064516   48.92225806   38.45774194]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_8.blur_4.jpg ------
+image[:5] :
+[[113 153 222]
+ [113 153 222]
+ [114 154 223]
+ [114 154 223]
+ [115 155 224]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 141.07894268  113.37789249   76.16545034]
+ [ 131.59922645  173.40180311  233.16236296]
+ [  67.15559896   51.640625     41.3671875 ]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_8.blur_5.jpg ------
+image[:5] :
+[[114 154 223]
+ [114 154 223]
+ [115 155 224]
+ [115 155 224]
+ [116 156 225]]
+running k means...
+[1 1 1 1 1 1 1 1 1 1]
+[[ 140.42102487  113.73244265   77.56429639]
+ [ 131.43722317  173.11914645  232.72136947]
+ [  68.19717362   53.03633917   43.71971736]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_10.jpg ------
+image[:5] :
+[[ 39  77 114]
+ [ 42  80 117]
+ [ 46  81 121]
+ [ 46  81 121]
+ [ 46  77 123]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[  92.9649562   110.65347557  135.98219997]
+ [  92.98939929   53.32924119   25.5751703 ]
+ [ 215.41274994  200.22551229  185.70782242]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_10.blur_1.jpg ------
+image[:5] :
+[[ 41  78 120]
+ [ 41  78 120]
+ [ 43  78 120]
+ [ 43  78 120]
+ [ 45  76 120]]
+running k means...
+[2 2 2 2 2 2 2 2 2 2]
+[[  91.73695307   52.24306741   25.38689986]
+ [ 208.13309147  192.43693436  177.32365873]
+ [  95.60783316  109.65020157  131.28405109]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_10.blur_2.jpg ------
+image[:5] :
+[[ 42  79 121]
+ [ 42  79 121]
+ [ 44  79 121]
+ [ 44  79 121]
+ [ 46  77 121]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[  95.5129864   109.28541874  130.82860958]
+ [ 205.86953503  189.65423408  173.9263302 ]
+ [  91.43432971   52.18365036   25.72163208]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_10.blur_3.jpg ------
+image[:5] :
+[[ 42  79 121]
+ [ 42  79 121]
+ [ 44  79 121]
+ [ 44  79 121]
+ [ 46  77 121]]
+running k means...
+[2 2 2 2 2 2 2 2 2 2]
+[[ 204.00383646  187.35203295  171.25461692]
+ [  91.57086909   52.48862595   26.20481627]
+ [  94.35004387  108.69026363  130.9438213 ]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_10.blur_4.jpg ------
+image[:5] :
+[[ 43  80 122]
+ [ 43  80 122]
+ [ 45  80 122]
+ [ 45  80 122]
+ [ 47  78 122]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[  92.94130253  108.0971148   131.43178586]
+ [  91.97810234   53.00384463   26.81689964]
+ [ 202.40854622  185.46177173  169.1157324 ]]
+mapping pixels to clusters to render image...
+
+------ segmenting with kmeans on images/source/camel_10.blur_5.jpg ------
+image[:5] :
+[[ 43  80 122]
+ [ 43  80 122]
+ [ 45  80 122]
+ [ 45  80 122]
+ [ 47  78 122]]
+running k means...
+[0 0 0 0 0 0 0 0 0 0]
+[[  74.5028781   104.441572    143.95183638]
+ [  97.86878698   59.38148833   32.77753514]
+ [ 197.69738813  179.29676931  161.63744836]]
+mapping pixels to clusters to render image...
+
+
+----------- begining evaluation of manual for blur 0 -----------
+
+------ evaluating  manual blur 0 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.627542526541
+accuracy for permutation (0, 2, 1) : 0.769564709953
+accuracy for permutation (1, 0, 2) : 0.00117711298867
+accuracy for permutation (1, 2, 0) : 0.0425861472475
+accuracy for permutation (2, 0, 1) : 0.329871326211
+accuracy for permutation (2, 1, 0) : 0.229258177059
+best results : [{'tn': 351438, 'fp': 547478, 'tp': 1500174, 'fn': 0, 'len': 2399090}, {'tn': 2144172, 'fp': 0, 'tp': 246737, 'fn': 8181, 'len': 2399090}, {'tn': 1749735, 'fp': 5357, 'tp': 99344, 'fn': 544654, 'len': 2399090}]
+
+------ evaluating  manual blur 0 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.998413964283
+accuracy for permutation (0, 2, 1) : 0.338443892866
+accuracy for permutation (1, 0, 2) : 0.196569861737
+accuracy for permutation (1, 2, 0) : 0.00155915375586
+accuracy for permutation (2, 0, 1) : 2.68819613079e-05
+accuracy for permutation (2, 1, 0) : 0.464986245396
+best results : [{'tn': 73654, 'fp': 176, 'tp': 37769, 'fn': 0, 'len': 111599}, {'tn': 59534, 'fp': 0, 'tp': 51890, 'fn': 175, 'len': 111599}, {'tn': 89833, 'fp': 1, 'tp': 21763, 'fn': 2, 'len': 111599}]
+
+------ evaluating  manual blur 0 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.0491798841553
+accuracy for permutation (0, 2, 1) : 0.0147061477111
+accuracy for permutation (1, 0, 2) : 0.985248741406
+accuracy for permutation (1, 2, 0) : 0.202791461412
+accuracy for permutation (2, 0, 1) : 0.748028654433
+accuracy for permutation (2, 1, 0) : 4.51108825493e-05
+best results : [{'tn': 26783, 'fp': 0, 'tp': 82665, 'fn': 1390, 'len': 110838}, {'tn': 86726, 'fp': 1395, 'tp': 22477, 'fn': 240, 'len': 110838}, {'tn': 106532, 'fp': 240, 'tp': 4061, 'fn': 5, 'len': 110838}]
+
+------ evaluating  manual blur 0 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.993429859141
+accuracy for permutation (0, 2, 1) : 0.991293028282
+accuracy for permutation (1, 0, 2) : 0.00579646072038
+accuracy for permutation (1, 2, 0) : 0.00641049257635
+accuracy for permutation (2, 0, 1) : 0.000159648282553
+accuracy for permutation (2, 1, 0) : 0.00291051099731
+best results : [{'tn': 274, 'fp': 485, 'tp': 80670, 'fn': 0, 'len': 81429}, {'tn': 80683, 'fp': 50, 'tp': 224, 'fn': 472, 'len': 81429}, {'tn': 81366, 'fp': 0, 'tp': 0, 'fn': 63, 'len': 81429}]
+
+------ evaluating  manual blur 0 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.30507356337
+accuracy for permutation (0, 2, 1) : 0.309230058719
+accuracy for permutation (1, 0, 2) : 0.261067493567
+accuracy for permutation (1, 2, 0) : 0.0
+accuracy for permutation (2, 0, 1) : 0.69492643663
+accuracy for permutation (2, 1, 0) : 0.429702447714
+best results : [{'tn': 6576, 'fp': 0, 'tp': 3957, 'fn': 4624, 'len': 15157}, {'tn': 15094, 'fp': 0, 'tp': 63, 'fn': 0, 'len': 15157}, {'tn': 4020, 'fp': 4624, 'tp': 6513, 'fn': 0, 'len': 15157}]
+
+------ evaluating  manual blur 0 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.22980407035
+accuracy for permutation (0, 2, 1) : 0.131134657597
+accuracy for permutation (1, 0, 2) : 0.849597571882
+accuracy for permutation (1, 2, 0) : 0.322213490149
+accuracy for permutation (2, 0, 1) : 0.4479824395
+accuracy for permutation (2, 1, 0) : 0.0192677705211
+best results : [{'tn': 14824, 'fp': 9, 'tp': 16529, 'fn': 5539, 'len': 36901}, {'tn': 20885, 'fp': 4835, 'tp': 11178, 'fn': 3, 'len': 36901}, {'tn': 32543, 'fp': 706, 'tp': 3644, 'fn': 8, 'len': 36901}]
+total results :
+{'1': {'tn': 4.762320690590555, 'fp': 0.1442262275381925, 'tp': 1.0804318427944546, 'fn': 0.013021239076797851}, '0': {'tn': 1.8870643577316484, 'fp': 0.23597943995723636, 'tp': 3.409237480376446, 'fn': 0.4677187219346691}, '2': {'tn': 4.641796234972084, 'fp': 0.3286130492102835, 'tp': 0.8015119601233871, 'fn': 0.22807875569424535}}
+----------- begining evaluation of manual for blur 1 -----------
+
+------ evaluating  manual blur 1 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.527391197015
+accuracy for permutation (0, 2, 1) : 0.696492088162
+accuracy for permutation (1, 0, 2) : 0.0013195089132
+accuracy for permutation (1, 2, 0) : 0.0720500544145
+accuracy for permutation (2, 0, 1) : 0.40055874857
+accuracy for permutation (2, 1, 0) : 0.302188402925
+best results : [{'tn': 518412, 'fp': 856877, 'tp': 1500781, 'fn': 0, 'len': 2876070}, {'tn': 2557289, 'fp': 0, 'tp': 298953, 'fn': 19828, 'len': 2876070}, {'tn': 1803529, 'fp': 16033, 'tp': 203426, 'fn': 853082, 'len': 2876070}]
+
+------ evaluating  manual blur 1 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.995722974299
+accuracy for permutation (0, 2, 1) : 0.253979465045
+accuracy for permutation (1, 0, 2) : 0.145144202472
+accuracy for permutation (1, 2, 0) : 0.00130795893009
+accuracy for permutation (2, 0, 1) : 0.0029690667713
+accuracy for permutation (2, 1, 0) : 0.600876332483
+best results : [{'tn': 114352, 'fp': 188, 'tp': 38370, 'fn': 0, 'len': 152910}, {'tn': 60376, 'fp': 12, 'tp': 91880, 'fn': 642, 'len': 152910}, {'tn': 130438, 'fp': 454, 'tp': 22006, 'fn': 12, 'len': 152910}]
+
+------ evaluating  manual blur 1 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.0406910011962
+accuracy for permutation (0, 2, 1) : 0.0356930110469
+accuracy for permutation (1, 0, 2) : 0.963745199363
+accuracy for permutation (1, 2, 0) : 0.530736186514
+accuracy for permutation (2, 0, 1) : 0.42857281229
+accuracy for permutation (2, 1, 0) : 0.000561789590426
+best results : [{'tn': 117554, 'fp': 0, 'tp': 84968, 'fn': 3961, 'len': 206483}, {'tn': 89409, 'fp': 4077, 'tp': 109588, 'fn': 3409, 'len': 206483}, {'tn': 198517, 'fp': 3409, 'tp': 4441, 'fn': 116, 'len': 206483}]
+
+------ evaluating  manual blur 1 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.905329475648
+accuracy for permutation (0, 2, 1) : 0.969998113089
+accuracy for permutation (1, 0, 2) : 0.00669853449903
+accuracy for permutation (1, 2, 0) : 0.0901314548085
+accuracy for permutation (2, 0, 1) : 0.00453906954316
+accuracy for permutation (2, 1, 0) : 0.0233033524121
+best results : [{'tn': 9753, 'fp': 1070, 'tp': 84571, 'fn': 0, 'len': 95394}, {'tn': 92961, 'fp': 0, 'tp': 2, 'fn': 2431, 'len': 95394}, {'tn': 85212, 'fp': 1792, 'tp': 7959, 'fn': 431, 'len': 95394}]
+
+------ evaluating  manual blur 1 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.376007586534
+accuracy for permutation (0, 2, 1) : 0.386965913282
+accuracy for permutation (1, 0, 2) : 0.243401296033
+accuracy for permutation (1, 2, 0) : 0.000210737052842
+accuracy for permutation (2, 0, 1) : 0.623781676413
+accuracy for permutation (2, 1, 0) : 0.369632790685
+best results : [{'tn': 7228, 'fp': 1, 'tp': 4616, 'fn': 7136, 'len': 18981}, {'tn': 18767, 'fp': 0, 'tp': 209, 'fn': 5, 'len': 18981}, {'tn': 4826, 'fp': 7140, 'tp': 7015, 'fn': 0, 'len': 18981}]
+
+------ evaluating  manual blur 1 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.256363885047
+accuracy for permutation (0, 2, 1) : 0.124177444112
+accuracy for permutation (1, 0, 2) : 0.858847129983
+accuracy for permutation (1, 2, 0) : 0.451360921567
+accuracy for permutation (2, 0, 1) : 0.292275193386
+accuracy for permutation (2, 1, 0) : 0.0169754259054
+best results : [{'tn': 37319, 'fp': 2668, 'tp': 19213, 'fn': 6601, 'len': 65801}, {'tn': 34311, 'fp': 5529, 'tp': 25951, 'fn': 10, 'len': 65801}, {'tn': 50684, 'fp': 1091, 'tp': 11349, 'fn': 2677, 'len': 65801}]
+total results :
+{'1': {'tn': 4.201673221644758, 'fp': 0.10384952306483052, 'tp': 1.6409755658111196, 'fn': 0.05350168947929194}, '0': {'tn': 2.54759478903631, 'fp': 0.3509785911886888, 'tp': 2.6059709158445203, 'fn': 0.49545570393048016}, '2': {'tn': 4.359319170627124, 'fp': 0.4365847044382873, 'tp': 0.8616406996525533, 'fn': 0.34245542528203454}}
+----------- begining evaluation of manual for blur 2 -----------
+
+------ evaluating  manual blur 2 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.497834367734
+accuracy for permutation (0, 2, 1) : 0.66517329638
+accuracy for permutation (1, 0, 2) : 0.00121530572054
+accuracy for permutation (1, 2, 0) : 0.0752782935603
+accuracy for permutation (2, 0, 1) : 0.426887338706
+accuracy for permutation (2, 1, 0) : 0.333611397899
+best results : [{'tn': 553243, 'fp': 1002656, 'tp': 1500945, 'fn': 0, 'len': 3056844}, {'tn': 2726285, 'fp': 0, 'tp': 305987, 'fn': 24572, 'len': 3056844}, {'tn': 1810647, 'fp': 20857, 'tp': 226399, 'fn': 998941, 'len': 3056844}]
+
+------ evaluating  manual blur 2 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.994342155157
+accuracy for permutation (0, 2, 1) : 0.236359477793
+accuracy for permutation (1, 0, 2) : 0.132881107012
+accuracy for permutation (1, 2, 0) : 0.00133621442028
+accuracy for permutation (2, 0, 1) : 0.00432163042235
+accuracy for permutation (2, 1, 0) : 0.630759415196
+best results : [{'tn': 127394, 'fp': 209, 'tp': 38538, 'fn': 0, 'len': 166141}, {'tn': 60406, 'fp': 13, 'tp': 104795, 'fn': 927, 'len': 166141}, {'tn': 143542, 'fp': 718, 'tp': 21868, 'fn': 13, 'len': 166141}]
+
+------ evaluating  manual blur 2 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.0400691253646
+accuracy for permutation (0, 2, 1) : 0.0361093849929
+accuracy for permutation (1, 0, 2) : 0.962044550481
+accuracy for permutation (1, 2, 0) : 0.551900720736
+accuracy for permutation (2, 0, 1) : 0.408030153899
+accuracy for permutation (2, 1, 0) : 0.00184606452608
+best results : [{'tn': 131225, 'fp': 0, 'tp': 85417, 'fn': 3827, 'len': 220469}, {'tn': 90424, 'fp': 4234, 'tp': 121677, 'fn': 4134, 'len': 220469}, {'tn': 210921, 'fp': 4134, 'tp': 5007, 'fn': 407, 'len': 220469}]
+
+------ evaluating  manual blur 2 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.892113737721
+accuracy for permutation (0, 2, 1) : 0.963072828306
+accuracy for permutation (1, 0, 2) : 0.00766988022796
+accuracy for permutation (1, 2, 0) : 0.103335128051
+accuracy for permutation (2, 0, 1) : 0.00455113422798
+accuracy for permutation (2, 1, 0) : 0.0292572914656
+best results : [{'tn': 11877, 'fp': 1178, 'tp': 85371, 'fn': 11, 'len': 98437}, {'tn': 95244, 'fp': 0, 'tp': 3, 'fn': 3190, 'len': 98437}, {'tn': 86118, 'fp': 2457, 'tp': 9428, 'fn': 434, 'len': 98437}]
+
+------ evaluating  manual blur 2 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.37566578667
+accuracy for permutation (0, 2, 1) : 0.385716270668
+accuracy for permutation (1, 0, 2) : 0.265619934232
+accuracy for permutation (1, 2, 0) : 9.26311889213e-05
+accuracy for permutation (2, 0, 1) : 0.624241582141
+accuracy for permutation (2, 1, 0) : 0.3486637951
+best results : [{'tn': 7749, 'fp': 0, 'tp': 5732, 'fn': 8110, 'len': 21591}, {'tn': 21370, 'fp': 1, 'tp': 218, 'fn': 2, 'len': 21591}, {'tn': 5950, 'fp': 8112, 'tp': 7528, 'fn': 1, 'len': 21591}]
+
+------ evaluating  manual blur 2 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.268270715389
+accuracy for permutation (0, 2, 1) : 0.127694859038
+accuracy for permutation (1, 0, 2) : 0.856178875736
+accuracy for permutation (1, 2, 0) : 0.452764911077
+accuracy for permutation (2, 0, 1) : 0.278964373535
+accuracy for permutation (2, 1, 0) : 0.0161262652256
+best results : [{'tn': 40405, 'fp': 3223, 'tp': 19498, 'fn': 6822, 'len': 69948}, {'tn': 36792, 'fp': 5747, 'tp': 27383, 'fn': 26, 'len': 69948}, {'tn': 52639, 'fp': 1090, 'tp': 13007, 'fn': 3212, 'len': 69948}]
+total results :
+{'1': {'tn': 4.1489072222653975, 'fp': 0.10149011030905075, 'tp': 1.6843629282738313, 'fn': 0.06523973915172085}, '0': {'tn': 2.600174642099168, 'fp': 0.3873057518183324, 'tp': 2.5219003455077615, 'fn': 0.49061926057473765}, '2': {'tn': 4.315971423837406, 'fp': 0.4461508496706449, 'tp': 0.8587900144203793, 'fn': 0.3790877120715695}}
+----------- begining evaluation of manual for blur 3 -----------
+
+------ evaluating  manual blur 3 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.478261810877
+accuracy for permutation (0, 2, 1) : 0.641850857896
+accuracy for permutation (1, 0, 2) : 0.00129148009078
+accuracy for permutation (1, 2, 0) : 0.0754646708342
+accuracy for permutation (2, 0, 1) : 0.446273518289
+accuracy for permutation (2, 1, 0) : 0.356857662013
+best results : [{'tn': 568027, 'fp': 1118105, 'tp': 1500909, 'fn': 0, 'len': 3187041}, {'tn': 2851291, 'fp': 0, 'tp': 308303, 'fn': 27447, 'len': 3187041}, {'tn': 1813328, 'fp': 23331, 'tp': 236393, 'fn': 1113989, 'len': 3187041}]
+
+------ evaluating  manual blur 3 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.990361874584
+accuracy for permutation (0, 2, 1) : 0.23029895984
+accuracy for permutation (1, 0, 2) : 0.126087805102
+accuracy for permutation (1, 2, 0) : 0.00296204449955
+accuracy for permutation (2, 0, 1) : 0.00667608091663
+accuracy for permutation (2, 1, 0) : 0.643613235058
+best results : [{'tn': 134798, 'fp': 483, 'tp': 38923, 'fn': 0, 'len': 174204}, {'tn': 60405, 'fp': 33, 'tp': 112120, 'fn': 1646, 'len': 174204}, {'tn': 151526, 'fp': 1163, 'tp': 21482, 'fn': 33, 'len': 174204}]
+
+------ evaluating  manual blur 3 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.0425108039354
+accuracy for permutation (0, 2, 1) : 0.0368494104357
+accuracy for permutation (1, 0, 2) : 0.96054976378
+accuracy for permutation (1, 2, 0) : 0.55602064898
+accuracy for permutation (2, 0, 1) : 0.401468547084
+accuracy for permutation (2, 1, 0) : 0.00260082578408
+best results : [{'tn': 138066, 'fp': 0, 'tp': 86502, 'fn': 3821, 'len': 228389}, {'tn': 92390, 'fp': 4415, 'tp': 126989, 'fn': 4595, 'len': 228389}, {'tn': 217312, 'fp': 4595, 'tp': 5888, 'fn': 594, 'len': 228389}]
+
+------ evaluating  manual blur 3 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.875872367963
+accuracy for permutation (0, 2, 1) : 0.959121907512
+accuracy for permutation (1, 0, 2) : 0.00945791229031
+accuracy for permutation (1, 2, 0) : 0.119806859475
+accuracy for permutation (2, 0, 1) : 0.0043207725621
+accuracy for permutation (2, 1, 0) : 0.0314201801981
+best results : [{'tn': 13826, 'fp': 1365, 'tp': 85245, 'fn': 9, 'len': 100445}, {'tn': 96771, 'fp': 0, 'tp': 1, 'fn': 3673, 'len': 100445}, {'tn': 86187, 'fp': 2741, 'tp': 11093, 'fn': 424, 'len': 100445}]
+
+------ evaluating  manual blur 3 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.374080185524
+accuracy for permutation (0, 2, 1) : 0.37720198011
+accuracy for permutation (1, 0, 2) : 0.279489809571
+accuracy for permutation (1, 2, 0) : 0.0
+accuracy for permutation (2, 0, 1) : 0.625919814476
+accuracy for permutation (2, 1, 0) : 0.34330821032
+best results : [{'tn': 7768, 'fp': 1, 'tp': 6267, 'fn': 8387, 'len': 22423}, {'tn': 22351, 'fp': 0, 'tp': 71, 'fn': 1, 'len': 22423}, {'tn': 6339, 'fp': 8387, 'tp': 7697, 'fn': 0, 'len': 22423}]
+
+------ evaluating  manual blur 3 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.283187673446
+accuracy for permutation (0, 2, 1) : 0.132502174543
+accuracy for permutation (1, 0, 2) : 0.850501870798
+accuracy for permutation (1, 2, 0) : 0.445857322343
+accuracy for permutation (2, 0, 1) : 0.270955004211
+accuracy for permutation (2, 1, 0) : 0.016995954659
+best results : [{'tn': 41992, 'fp': 4111, 'tp': 19617, 'fn': 6709, 'len': 72429}, {'tn': 38968, 'fp': 5746, 'tp': 27463, 'fn': 252, 'len': 72429}, {'tn': 53070, 'fp': 971, 'tp': 14521, 'fn': 3867, 'len': 72429}]
+total results :
+{'1': {'tn': 4.14415757110647, 'fp': 0.09885335058371508, 'tp': 1.6787179976404611, 'fn': 0.07827108066935383}, '0': {'tn': 2.6203906366607095, 'fp': 0.4239943266053463, 'tp': 2.4721309759652437, 'fn': 0.4834840607687004}, '2': {'tn': 4.263757881278335, 'fp': 0.44884623376542454, 'tp': 0.8774571154398092, 'fn': 0.4099387695164317}}
+----------- begining evaluation of manual for blur 4 -----------
+
+------ evaluating  manual blur 4 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.466133814052
+accuracy for permutation (0, 2, 1) : 0.627557266751
+accuracy for permutation (1, 0, 2) : 0.00125785856371
+accuracy for permutation (1, 2, 0) : 0.0762474120193
+accuracy for permutation (2, 0, 1) : 0.457618773928
+accuracy for permutation (2, 1, 0) : 0.371184874686
+best results : [{'tn': 581336, 'fp': 1193958, 'tp': 1500909, 'fn': 0, 'len': 3276203}, {'tn': 2936427, 'fp': 0, 'tp': 309415, 'fn': 30361, 'len': 3276203}, {'tn': 1814445, 'fp': 26240, 'tp': 245681, 'fn': 1189837, 'len': 3276203}]
+
+------ evaluating  manual blur 4 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.98414580021
+accuracy for permutation (0, 2, 1) : 0.231037601757
+accuracy for permutation (1, 0, 2) : 0.124738057383
+accuracy for permutation (1, 2, 0) : 0.00574728787564
+accuracy for permutation (2, 0, 1) : 0.0101069119142
+accuracy for permutation (2, 1, 0) : 0.64422434086
+best results : [{'tn': 138167, 'fp': 764, 'tp': 39066, 'fn': 0, 'len': 177997}, {'tn': 60505, 'fp': 259, 'tp': 114670, 'fn': 2563, 'len': 177997}, {'tn': 154500, 'fp': 1799, 'tp': 21439, 'fn': 259, 'len': 177997}]
+
+------ evaluating  manual blur 4 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.0432749197047
+accuracy for permutation (0, 2, 1) : 0.0375794825561
+accuracy for permutation (1, 0, 2) : 0.959096011894
+accuracy for permutation (1, 2, 0) : 0.557801751975
+accuracy for permutation (2, 0, 1) : 0.39892332832
+accuracy for permutation (2, 1, 0) : 0.00332450555023
+best results : [{'tn': 140450, 'fp': 0, 'tp': 86430, 'fn': 3831, 'len': 230711}, {'tn': 92583, 'fp': 4598, 'tp': 128691, 'fn': 4839, 'len': 230711}, {'tn': 218952, 'fp': 4839, 'tp': 6153, 'fn': 767, 'len': 230711}]
+
+------ evaluating  manual blur 4 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.861618646053
+accuracy for permutation (0, 2, 1) : 0.952594284376
+accuracy for permutation (1, 0, 2) : 0.00848168970094
+accuracy for permutation (1, 2, 0) : 0.133891621769
+accuracy for permutation (2, 0, 1) : 0.00448973217772
+accuracy for permutation (2, 1, 0) : 0.0389240259233
+best results : [{'tn': 16431, 'fp': 1277, 'tp': 84723, 'fn': 25, 'len': 102456}, {'tn': 98055, 'fp': 0, 'tp': 2, 'fn': 4399, 'len': 102456}, {'tn': 85569, 'fp': 3580, 'tp': 12874, 'fn': 433, 'len': 102456}]
+
+------ evaluating  manual blur 4 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.372369505793
+accuracy for permutation (0, 2, 1) : 0.37545016705
+accuracy for permutation (1, 0, 2) : 0.279645940903
+accuracy for permutation (1, 2, 0) : 4.33895951751e-05
+accuracy for permutation (2, 0, 1) : 0.627587104612
+accuracy for permutation (2, 1, 0) : 0.344903892047
+best results : [{'tn': 8021, 'fp': 0, 'tp': 6444, 'fn': 8582, 'len': 23047}, {'tn': 22975, 'fp': 0, 'tp': 71, 'fn': 1, 'len': 23047}, {'tn': 6515, 'fp': 8583, 'tp': 7949, 'fn': 0, 'len': 23047}]
+
+------ evaluating  manual blur 4 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.289330995964
+accuracy for permutation (0, 2, 1) : 0.133773628494
+accuracy for permutation (1, 0, 2) : 0.847717667523
+accuracy for permutation (1, 2, 0) : 0.442510225991
+accuracy for permutation (2, 0, 1) : 0.268158778045
+accuracy for permutation (2, 1, 0) : 0.018508703983
+best results : [{'tn': 42664, 'fp': 4346, 'tp': 19725, 'fn': 6852, 'len': 73587}, {'tn': 40166, 'fp': 5769, 'tp': 27389, 'fn': 263, 'len': 73587}, {'tn': 53138, 'fp': 1091, 'tp': 15267, 'fn': 4091, 'len': 73587}]
+total results :
+{'1': {'tn': 4.137256448457547, 'fp': 0.09978177576681045, 'tp': 1.6717683394448146, 'fn': 0.09119343633082706}, '0': {'tn': 2.65062000292132, 'fp': 0.4402489003707688, 'tp': 2.42679812078741, 'fn': 0.4823329759205002}, '2': {'tn': 4.210821683986322, 'fp': 0.4612711884972302, 'tp': 0.9001316751329652, 'fn': 0.42777545238348225}}
+----------- begining evaluation of manual for blur 5 -----------
+
+------ evaluating  manual blur 5 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.457984149635
+accuracy for permutation (0, 2, 1) : 0.616382220098
+accuracy for permutation (1, 0, 2) : 0.00120506323965
+accuracy for permutation (1, 2, 0) : 0.0760108069856
+accuracy for permutation (2, 0, 1) : 0.46600504338
+accuracy for permutation (2, 1, 0) : 0.382412716662
+best results : [{'tn': 590191, 'fp': 1252283, 'tp': 1500919, 'fn': 0, 'len': 3343393}, {'tn': 2999278, 'fp': 0, 'tp': 309784, 'fn': 34331, 'len': 3343393}, {'tn': 1814732, 'fp': 30302, 'tp': 250105, 'fn': 1248254, 'len': 3343393}]
+
+------ evaluating  manual blur 5 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.98148279959
+accuracy for permutation (0, 2, 1) : 0.226964372731
+accuracy for permutation (1, 0, 2) : 0.124183507537
+accuracy for permutation (1, 2, 0) : 0.00870012757267
+accuracy for permutation (2, 0, 1) : 0.00981707283688
+accuracy for permutation (2, 1, 0) : 0.648852119732
+best results : [{'tn': 141940, 'fp': 1315, 'tp': 39386, 'fn': 0, 'len': 182641}, {'tn': 60754, 'fp': 275, 'tp': 118506, 'fn': 3106, 'len': 182641}, {'tn': 159206, 'fp': 1792, 'tp': 21367, 'fn': 276, 'len': 182641}]
+
+------ evaluating  manual blur 5 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.0447638922424
+accuracy for permutation (0, 2, 1) : 0.0380117967645
+accuracy for permutation (1, 0, 2) : 0.957564416543
+accuracy for permutation (1, 2, 0) : 0.557746369563
+accuracy for permutation (2, 0, 1) : 0.397489738195
+accuracy for permutation (2, 1, 0) : 0.00442378669242
+best results : [{'tn': 141929, 'fp': 0, 'tp': 86173, 'fn': 3826, 'len': 231928}, {'tn': 92729, 'fp': 4852, 'tp': 129357, 'fn': 4990, 'len': 231928}, {'tn': 219356, 'fp': 4990, 'tp': 6556, 'fn': 1026, 'len': 231928}]
+
+------ evaluating  manual blur 5 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.849643358391
+accuracy for permutation (0, 2, 1) : 0.950781535385
+accuracy for permutation (1, 0, 2) : 0.00833445484783
+accuracy for permutation (1, 2, 0) : 0.145953896141
+accuracy for permutation (2, 0, 1) : 0.00440274546748
+accuracy for permutation (2, 1, 0) : 0.0408840097668
+best results : [{'tn': 18167, 'fp': 1270, 'tp': 84562, 'fn': 27, 'len': 104026}, {'tn': 99362, 'fp': 0, 'tp': 1, 'fn': 4663, 'len': 104026}, {'tn': 85403, 'fp': 3850, 'tp': 14343, 'fn': 430, 'len': 104026}]
+
+------ evaluating  manual blur 5 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.388635897436
+accuracy for permutation (0, 2, 1) : 0.391302564103
+accuracy for permutation (1, 0, 2) : 0.256328205128
+accuracy for permutation (1, 2, 0) : 0.000164102564103
+accuracy for permutation (2, 0, 1) : 0.6112
+accuracy for permutation (2, 1, 0) : 0.352369230769
+best results : [{'tn': 8658, 'fp': 0, 'tp': 6244, 'fn': 9473, 'len': 24375}, {'tn': 24306, 'fp': 0, 'tp': 65, 'fn': 4, 'len': 24375}, {'tn': 6309, 'fp': 9477, 'tp': 8589, 'fn': 0, 'len': 24375}]
+
+------ evaluating  manual blur 5 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[-1, -1, -1, -1, -1]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.299188188004
+accuracy for permutation (0, 2, 1) : 0.137298689016
+accuracy for permutation (1, 0, 2) : 0.843903528361
+accuracy for permutation (1, 2, 0) : 0.438417886136
+accuracy for permutation (2, 0, 1) : 0.26239392586
+accuracy for permutation (2, 1, 0) : 0.0187977826235
+best results : [{'tn': 44282, 'fp': 5050, 'tp': 19968, 'fn': 6826, 'len': 76126}, {'tn': 42470, 'fp': 5744, 'tp': 27574, 'fn': 338, 'len': 76126}, {'tn': 53617, 'fp': 1089, 'tp': 16701, 'fn': 4719, 'len': 76126}]
+total results :
+{'1': {'tn': 4.139760942081721, 'fp': 0.09787982444675497, 'tp': 1.6641401431384573, 'fn': 0.09821909033306675}, '0': {'tn': 2.677162948752036, 'fp': 0.46030032300943285, 'tp': 2.367477650582739, 'fn': 0.495059077655792}, '2': {'tn': 4.144390609143987, 'fp': 0.48050535256606747, 'tp': 0.9296967062565484, 'fn': 0.44540733203339666}}
+----------- begining evaluation of kmeans for blur 0 -----------
+
+------ evaluating  kmeans blur 0 camel 1 ------
+stats/kmeans/camel_1.pkl already exists
+
+------ evaluating  kmeans blur 0 camel 2 ------
+stats/kmeans/camel_2.pkl already exists
+
+------ evaluating  kmeans blur 0 camel 3 ------
+stats/kmeans/camel_3.pkl already exists
+
+------ evaluating  kmeans blur 0 camel 4 ------
+stats/kmeans/camel_4.pkl already exists
+
+------ evaluating  kmeans blur 0 camel 8 ------
+stats/kmeans/camel_8.pkl already exists
+
+------ evaluating  kmeans blur 0 camel 10 ------
+stats/kmeans/camel_10.pkl already exists
+total results :
+{'1': {'tn': 4.750813023895821, 'fp': 0.010310756525554653, 'tp': 1.2126448123042426, 'fn': 0.026231407274381554}, '0': {'tn': 2.2481922248422914, 'fp': 0.0008250083452142106, 'tp': 3.7284259353149554, 'fn': 0.022556831497539256}, '2': {'tn': 4.94141898676525, 'fp': 0.04843999962586952, 'tp': 0.999353487884164, 'fn': 0.010787525724717575}}
+----------- begining evaluation of kmeans for blur 1 -----------
+
+------ evaluating  kmeans blur 1 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.996756151293
+accuracy for permutation (0, 2, 1) : 0.386971857996
+accuracy for permutation (1, 0, 2) : 0.503720651366
+accuracy for permutation (1, 2, 0) : 0.000236028219739
+accuracy for permutation (2, 0, 1) : 0.0030078204872
+accuracy for permutation (2, 1, 0) : 0.109307490638
+best results : [{'tn': 2397571, 'fp': 2279, 'tp': 1497989, 'fn': 0, 'len': 3897839}, {'tn': 3461854, 'fp': 2, 'tp': 424702, 'fn': 11281, 'len': 3897839}, {'tn': 1923609, 'fp': 10363, 'tp': 1962504, 'fn': 1363, 'len': 3897839}]
+
+------ evaluating  kmeans blur 1 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.98199155144
+accuracy for permutation (0, 2, 1) : 0.245186285827
+accuracy for permutation (1, 0, 2) : 0.144067588477
+accuracy for permutation (1, 2, 0) : 1.22798830955e-05
+accuracy for permutation (2, 0, 1) : 0.0179961686765
+accuracy for permutation (2, 1, 0) : 0.610746125697
+best results : [{'tn': 125868, 'fp': 0, 'tp': 37000, 'fn': 0, 'len': 162868}, {'tn': 60464, 'fp': 2, 'tp': 99471, 'fn': 2931, 'len': 162868}, {'tn': 136471, 'fp': 2931, 'tp': 23464, 'fn': 2, 'len': 162868}]
+
+------ evaluating  kmeans blur 1 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 1, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.907727060809
+accuracy for permutation (0, 2, 1) : 0.636902515374
+accuracy for permutation (1, 0, 2) : 0.0483648957663
+accuracy for permutation (1, 2, 0) : 7.77035277402e-05
+accuracy for permutation (2, 0, 1) : 0.0921952356637
+accuracy for permutation (2, 1, 0) : 0.31473258886
+best results : [{'tn': 82025, 'fp': 0, 'tp': 98137, 'fn': 10, 'len': 180172}, {'tn': 106861, 'fp': 4, 'tp': 56696, 'fn': 16611, 'len': 180172}, {'tn': 154833, 'fp': 16621, 'tp': 8714, 'fn': 4, 'len': 180172}]
+
+------ evaluating  kmeans blur 1 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.858846675201
+accuracy for permutation (0, 2, 1) : 0.952556668424
+accuracy for permutation (1, 0, 2) : 0.00198621884178
+accuracy for permutation (1, 2, 0) : 0.133519090293
+accuracy for permutation (2, 0, 1) : 0.00763423450561
+accuracy for permutation (2, 1, 0) : 0.0454571127344
+best results : [{'tn': 20009, 'fp': 13, 'tp': 86210, 'fn': 0, 'len': 106232}, {'tn': 100401, 'fp': 208, 'tp': 801, 'fn': 4822, 'len': 106232}, {'tn': 87014, 'fp': 4819, 'tp': 14181, 'fn': 218, 'len': 106232}]
+
+------ evaluating  kmeans blur 1 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 0, '3413934': 2}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.999533146592
+accuracy for permutation (0, 2, 1) : 0.794941506014
+accuracy for permutation (1, 0, 2) : 0.199428791124
+accuracy for permutation (1, 2, 0) : 0.000439391442852
+accuracy for permutation (2, 0, 1) : 2.74619651782e-05
+accuracy for permutation (2, 1, 0) : 0.00562970286154
+best results : [{'tn': 7452, 'fp': 16, 'tp': 28946, 'fn': 0, 'len': 36414}, {'tn': 36192, 'fp': 0, 'tp': 205, 'fn': 17, 'len': 36414}, {'tn': 29167, 'fp': 1, 'tp': 7246, 'fn': 0, 'len': 36414}]
+
+------ evaluating  kmeans blur 1 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 1, '3413934': 2}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.96925685018
+accuracy for permutation (0, 2, 1) : 0.378392026259
+accuracy for permutation (1, 0, 2) : 0.215430488259
+accuracy for permutation (1, 2, 0) : 0.0281942457288
+accuracy for permutation (2, 0, 1) : 0.00254890409147
+accuracy for permutation (2, 1, 0) : 0.406177485482
+best results : [{'tn': 49184, 'fp': 215, 'tp': 31452, 'fn': 2322, 'len': 83173}, {'tn': 51897, 'fp': 18, 'tp': 31251, 'fn': 7, 'len': 83173}, {'tn': 62708, 'fp': 2324, 'tp': 17913, 'fn': 228, 'len': 83173}]
+total results :
+{'1': {'tn': 4.4154765516053205, 'fp': 0.0022093891444328775, 'tp': 1.423286252587835, 'fn': 0.15902780666241192}, '0': {'tn': 2.827528429082966, 'fp': 0.003731421553240817, 'tp': 3.140766933162856, 'fn': 0.027973216200936877}, '2': {'tn': 4.56481644804931, 'fp': 0.18623776056472963, 'tp': 1.2437682429869057, 'fn': 0.005177548399054502}}
+----------- begining evaluation of kmeans for blur 2 -----------
+
+------ evaluating  kmeans blur 2 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.386223739735
+accuracy for permutation (0, 2, 1) : 0.996745614093
+accuracy for permutation (1, 0, 2) : 0.00022991413296
+accuracy for permutation (1, 2, 0) : 0.503830451384
+accuracy for permutation (2, 0, 1) : 0.10994580888
+accuracy for permutation (2, 1, 0) : 0.00302447177356
+best results : [{'tn': 2405366, 'fp': 2318, 'tp': 1498122, 'fn': 0, 'len': 3905806}, {'tn': 3466508, 'fp': 0, 'tp': 428007, 'fn': 11291, 'len': 3905806}, {'tn': 1927027, 'fp': 10393, 'tp': 1966966, 'fn': 1420, 'len': 3905806}]
+
+------ evaluating  kmeans blur 2 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.968510509143
+accuracy for permutation (0, 2, 1) : 0.247550006712
+accuracy for permutation (1, 0, 2) : 0.13666263928
+accuracy for permutation (1, 2, 0) : 1.75103748971e-05
+accuracy for permutation (2, 0, 1) : 0.0314719804818
+accuracy for permutation (2, 1, 0) : 0.615787354007
+best results : [{'tn': 134308, 'fp': 1, 'tp': 37018, 'fn': 0, 'len': 171327}, {'tn': 60431, 'fp': 2, 'tp': 105501, 'fn': 5393, 'len': 171327}, {'tn': 142520, 'fp': 5392, 'tp': 23413, 'fn': 2, 'len': 171327}]
+
+------ evaluating  kmeans blur 2 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 0, '3413934': 2}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.899307927799
+accuracy for permutation (0, 2, 1) : 0.611688562294
+accuracy for permutation (1, 0, 2) : 0.0512613237511
+accuracy for permutation (1, 2, 0) : 9.38756564777e-05
+accuracy for permutation (2, 0, 1) : 0.100598196544
+accuracy for permutation (2, 1, 0) : 0.337050113955
+best results : [{'tn': 93743, 'fp': 0, 'tp': 97990, 'fn': 10, 'len': 191743}, {'tn': 107829, 'fp': 8, 'tp': 64617, 'fn': 19289, 'len': 191743}, {'tn': 162607, 'fp': 19299, 'tp': 9829, 'fn': 8, 'len': 191743}]
+
+------ evaluating  kmeans blur 2 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 0, '3413934': 2}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.840368993529
+accuracy for permutation (0, 2, 1) : 0.952352104273
+accuracy for permutation (1, 0, 2) : 0.00215705172335
+accuracy for permutation (1, 2, 0) : 0.145890128046
+accuracy for permutation (2, 0, 1) : 0.0137408784249
+accuracy for permutation (2, 1, 0) : 0.0454908440039
+best results : [{'tn': 22452, 'fp': 65, 'tp': 86428, 'fn': 0, 'len': 108945}, {'tn': 102377, 'fp': 230, 'tp': 1437, 'fn': 4901, 'len': 108945}, {'tn': 87870, 'fp': 4896, 'tp': 15889, 'fn': 290, 'len': 108945}]
+
+------ evaluating  kmeans blur 2 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.999533120949
+accuracy for permutation (0, 2, 1) : 0.788091837856
+accuracy for permutation (1, 0, 2) : 0.206113369219
+accuracy for permutation (1, 2, 0) : 0.000411952103702
+accuracy for permutation (2, 0, 1) : 5.49269471603e-05
+accuracy for permutation (2, 1, 0) : 0.00579479292541
+best results : [{'tn': 7703, 'fp': 15, 'tp': 28694, 'fn': 0, 'len': 36412}, {'tn': 36184, 'fp': 0, 'tp': 211, 'fn': 17, 'len': 36412}, {'tn': 28920, 'fp': 2, 'tp': 7490, 'fn': 0, 'len': 36412}]
+
+------ evaluating  kmeans blur 2 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 0, '3413934': 2}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.968242935278
+accuracy for permutation (0, 2, 1) : 0.358659981768
+accuracy for permutation (1, 0, 2) : 0.25459206928
+accuracy for permutation (1, 2, 0) : 0.0267319963537
+accuracy for permutation (2, 0, 1) : 0.00502506836828
+accuracy for permutation (2, 1, 0) : 0.386747948952
+best results : [{'tn': 53539, 'fp': 444, 'tp': 31455, 'fn': 2322, 'len': 87760}, {'tn': 56558, 'fp': 21, 'tp': 31178, 'fn': 3, 'len': 87760}, {'tn': 62636, 'fp': 2322, 'tp': 22340, 'fn': 462, 'len': 87760}]
+total results :
+{'1': {'tn': 4.380525399771754, 'fp': 0.002403842073001419, 'tp': 1.4366168544542457, 'fn': 0.18045390370099834}, '0': {'tn': 2.916369017420485, 'fp': 0.006667148186699778, 'tp': 3.0504531580051135, 'fn': 0.026510676387701822}, '2': {'tn': 4.487797794343731, 'fp': 0.206236798204328, 'tp': 1.2976221990766117, 'fn': 0.008343208375329016}}
+----------- begining evaluation of kmeans for blur 3 -----------
+----------- begining evaluation of kmeans for blur 3 -----------
+
+------ evaluating  kmeans blur 3 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 1, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.385808172168
+accuracy for permutation (0, 2, 1) : 0.996627567032
+accuracy for permutation (1, 0, 2) : 0.000233145760071
+accuracy for permutation (1, 2, 0) : 0.503392373066
+accuracy for permutation (2, 0, 1) : 0.110799454766
+accuracy for permutation (2, 1, 0) : 0.00313928720797
+best results : [{'tn': 2411102, 'fp': 2317, 'tp': 1498297, 'fn': 0, 'len': 3911716}, {'tn': 3467920, 'fp': 1, 'tp': 432010, 'fn': 11785, 'len': 3911716}, {'tn': 1931218, 'fp': 10874, 'tp': 1968217, 'fn': 1407, 'len': 3911716}]
+
+------ evaluating  kmeans blur 3 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 1, '3413934': 2}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.967125283717
+accuracy for permutation (0, 2, 1) : 0.243214615967
+accuracy for permutation (1, 0, 2) : 0.133953540505
+accuracy for permutation (1, 2, 0) : 0.000347465463614
+accuracy for permutation (2, 0, 1) : 0.0325272508196
+accuracy for permutation (2, 1, 0) : 0.622831843528
+best results : [{'tn': 140785, 'fp': 59, 'tp': 37591, 'fn': 0, 'len': 178435}, {'tn': 61434, 'fp': 3, 'tp': 111135, 'fn': 5863, 'len': 178435}, {'tn': 148785, 'fp': 5804, 'tp': 23843, 'fn': 3, 'len': 178435}]
+
+------ evaluating  kmeans blur 3 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 1, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.888908322256
+accuracy for permutation (0, 2, 1) : 0.600037978352
+accuracy for permutation (1, 0, 2) : 0.0549087020398
+accuracy for permutation (1, 2, 0) : 0.000164906003578
+accuracy for permutation (2, 0, 1) : 0.11092677174
+accuracy for permutation (2, 1, 0) : 0.345053319608
+best results : [{'tn': 102217, 'fp': 0, 'tp': 97871, 'fn': 26, 'len': 200114}, {'tn': 108853, 'fp': 39, 'tp': 69040, 'fn': 22182, 'len': 200114}, {'tn': 166927, 'fp': 22192, 'tp': 10972, 'fn': 23, 'len': 200114}]
+
+------ evaluating  kmeans blur 3 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 1, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.829589402537
+accuracy for permutation (0, 2, 1) : 0.953121046734
+accuracy for permutation (1, 0, 2) : 0.00235840532042
+accuracy for permutation (1, 2, 0) : 0.156721003361
+accuracy for permutation (2, 0, 1) : 0.0136895941013
+accuracy for permutation (2, 1, 0) : 0.0445205479452
+best results : [{'tn': 23925, 'fp': 61, 'tp': 86682, 'fn': 0, 'len': 110668}, {'tn': 104079, 'fp': 257, 'tp': 1458, 'fn': 4874, 'len': 110668}, {'tn': 88144, 'fp': 4870, 'tp': 17340, 'fn': 314, 'len': 110668}]
+
+------ evaluating  kmeans blur 3 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.999419713173
+accuracy for permutation (0, 2, 1) : 0.789079554561
+accuracy for permutation (1, 0, 2) : 0.209566442842
+accuracy for permutation (1, 2, 0) : 0.000414490591064
+accuracy for permutation (2, 0, 1) : 0.000165796236425
+accuracy for permutation (2, 1, 0) : 0.00135400259747
+best results : [{'tn': 7624, 'fp': 15, 'tp': 28550, 'fn': 0, 'len': 36189}, {'tn': 36119, 'fp': 0, 'tp': 49, 'fn': 21, 'len': 36189}, {'tn': 28614, 'fp': 6, 'tp': 7569, 'fn': 0, 'len': 36189}]
+
+------ evaluating  kmeans blur 3 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 2, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.970800438596
+accuracy for permutation (0, 2, 1) : 0.344692982456
+accuracy for permutation (1, 0, 2) : 0.285098684211
+accuracy for permutation (1, 2, 0) : 0.0260416666667
+accuracy for permutation (2, 0, 1) : 0.00315789473684
+accuracy for permutation (2, 1, 0) : 0.370208333333
+best results : [{'tn': 57145, 'fp': 288, 'tp': 31414, 'fn': 2353, 'len': 91200}, {'tn': 60050, 'fp': 19, 'tp': 31125, 'fn': 6, 'len': 91200}, {'tn': 62542, 'fp': 2356, 'tp': 25998, 'fn': 304, 'len': 91200}]
+total results :
+{'1': {'tn': 4.3717656179639, 'fp': 0.0027425519115232846, 'tp': 1.4340866507395105, 'fn': 0.19140517938506593}, '0': {'tn': 2.969621074794271, 'fp': 0.005046559289406617, 'tp': 2.999402001377619, 'fn': 0.025930364538704165}, '2': {'tn': 4.434615678750244, 'fp': 0.2162085172906552, 'tp': 1.3425137193912855, 'fn': 0.006662084567815019}}
+----------- begining evaluation of kmeans for blur 4 -----------
+
+------ evaluating  kmeans blur 4 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 1, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.385618337116
+accuracy for permutation (0, 2, 1) : 0.996561075524
+accuracy for permutation (1, 0, 2) : 0.000231186053427
+accuracy for permutation (1, 2, 0) : 0.50296684511
+accuracy for permutation (2, 0, 1) : 0.111414817774
+accuracy for permutation (2, 1, 0) : 0.00320773842307
+best results : [{'tn': 2413900, 'fp': 2309, 'tp': 1498387, 'fn': 0, 'len': 3914596}, {'tn': 3467800, 'fp': 1, 'tp': 434739, 'fn': 12056, 'len': 3914596}, {'tn': 1934030, 'fp': 11152, 'tp': 1968008, 'fn': 1406, 'len': 3914596}]
+
+------ evaluating  kmeans blur 4 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 0, '0191254': 1, '3413934': 2}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.964533436584
+accuracy for permutation (0, 2, 1) : 0.242181536589
+accuracy for permutation (1, 0, 2) : 0.133458708999
+accuracy for permutation (1, 2, 0) : 0.000342939321865
+accuracy for permutation (2, 0, 1) : 0.0351236240943
+accuracy for permutation (2, 1, 0) : 0.624359754411
+best results : [{'tn': 143300, 'fp': 59, 'tp': 37431, 'fn': 0, 'len': 180790}, {'tn': 61500, 'fp': 3, 'tp': 112878, 'fn': 6409, 'len': 180790}, {'tn': 150368, 'fp': 6350, 'tp': 24069, 'fn': 3, 'len': 180790}]
+
+------ evaluating  kmeans blur 4 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.880409472343
+accuracy for permutation (0, 2, 1) : 0.597357077652
+accuracy for permutation (1, 0, 2) : 0.0576424585915
+accuracy for permutation (1, 2, 0) : 0.000410058140386
+accuracy for permutation (2, 0, 1) : 0.119180469517
+accuracy for permutation (2, 1, 0) : 0.345000463756
+best results : [{'tn': 106959, 'fp': 0, 'tp': 97880, 'fn': 10, 'len': 204849}, {'tn': 109698, 'fp': 74, 'tp': 70663, 'fn': 24414, 'len': 204849}, {'tn': 168543, 'fp': 24424, 'tp': 11808, 'fn': 74, 'len': 204849}]
+
+------ evaluating  kmeans blur 4 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.825857213107
+accuracy for permutation (0, 2, 1) : 0.948392865126
+accuracy for permutation (1, 0, 2) : 0.0025481693415
+accuracy for permutation (1, 2, 0) : 0.160275381108
+accuracy for permutation (2, 0, 1) : 0.0138674057848
+accuracy for permutation (2, 1, 0) : 0.0490589655327
+best results : [{'tn': 25127, 'fp': 61, 'tp': 86657, 'fn': 0, 'len': 111845}, {'tn': 104636, 'fp': 281, 'tp': 1494, 'fn': 5434, 'len': 111845}, {'tn': 88155, 'fp': 5430, 'tp': 17922, 'fn': 338, 'len': 111845}]
+
+------ evaluating  kmeans blur 4 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.999587390659
+accuracy for permutation (0, 2, 1) : 0.785443142433
+accuracy for permutation (1, 0, 2) : 0.213236507675
+accuracy for permutation (1, 2, 0) : 0.000412609341475
+accuracy for permutation (2, 0, 1) : 0.0
+accuracy for permutation (2, 1, 0) : 0.00132034989272
+best results : [{'tn': 7785, 'fp': 15, 'tp': 28554, 'fn': 0, 'len': 36354}, {'tn': 36291, 'fp': 0, 'tp': 48, 'fn': 15, 'len': 36354}, {'tn': 28617, 'fp': 0, 'tp': 7737, 'fn': 0, 'len': 36354}]
+
+------ evaluating  kmeans blur 4 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.967218672854
+accuracy for permutation (0, 2, 1) : 0.331023595351
+accuracy for permutation (1, 0, 2) : 0.307618956804
+accuracy for permutation (1, 2, 0) : 0.029814691205
+accuracy for permutation (2, 0, 1) : 0.00296663594079
+accuracy for permutation (2, 1, 0) : 0.361357447845
+best results : [{'tn': 60556, 'fp': 283, 'tp': 30988, 'fn': 2556, 'len': 94383}, {'tn': 62855, 'fp': 255, 'tp': 31270, 'fn': 3, 'len': 94383}, {'tn': 62261, 'fp': 2556, 'tp': 29031, 'fn': 535, 'len': 94383}]
+total results :
+{'1': {'tn': 4.361312968618808, 'fp': 0.00559225428052244, 'tp': 1.4263550919674635, 'fn': 0.20673968513320565}, '0': {'tn': 3.011811020488511, 'fp': 0.004872617553583158, 'tp': 2.9561863974245126, 'fn': 0.027129964533393176}, '2': {'tn': 4.383578923981697, 'fp': 0.2328322150768774, 'tp': 1.3741614236970414, 'fn': 0.009427437244384182}}
+----------- begining evaluation of kmeans for blur 5 -----------
+
+------ evaluating  kmeans blur 5 camel 1 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 1, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.385170406246
+accuracy for permutation (0, 2, 1) : 0.996565768081
+accuracy for permutation (1, 0, 2) : 0.00022559716258
+accuracy for permutation (1, 2, 0) : 0.50260061978
+accuracy for permutation (2, 0, 1) : 0.112228973974
+accuracy for permutation (2, 1, 0) : 0.00320863475692
+best results : [{'tn': 2418044, 'fp': 2308, 'tp': 1498137, 'fn': 0, 'len': 3918489}, {'tn': 3468114, 'fp': 1, 'tp': 438343, 'fn': 12031, 'len': 3918489}, {'tn': 1937363, 'fp': 11148, 'tp': 1968552, 'fn': 1426, 'len': 3918489}]
+
+------ evaluating  kmeans blur 5 camel 2 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 1, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.960432518586
+accuracy for permutation (0, 2, 1) : 0.243419975328
+accuracy for permutation (1, 0, 2) : 0.132506577296
+accuracy for permutation (1, 2, 0) : 0.000447583594424
+accuracy for permutation (2, 0, 1) : 0.0391198978199
+accuracy for permutation (2, 1, 0) : 0.624073447376
+best results : [{'tn': 145703, 'fp': 78, 'tp': 37425, 'fn': 0, 'len': 183206}, {'tn': 61623, 'fp': 4, 'tp': 114334, 'fn': 7245, 'len': 183206}, {'tn': 151837, 'fp': 7167, 'tp': 24198, 'fn': 4, 'len': 183206}]
+
+------ evaluating  kmeans blur 5 camel 3 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 2, '124124124': 1, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 2, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.596485042838
+accuracy for permutation (0, 2, 1) : 0.876044393358
+accuracy for permutation (1, 0, 2) : 0.000405683431695
+accuracy for permutation (1, 2, 0) : 0.0572979551623
+accuracy for permutation (2, 0, 1) : 0.346217001999
+accuracy for permutation (2, 1, 0) : 0.12354992321
+best results : [{'tn': 109195, 'fp': 0, 'tp': 97852, 'fn': 11, 'len': 207058}, {'tn': 109725, 'fp': 75, 'tp': 71677, 'fn': 25581, 'len': 207058}, {'tn': 169530, 'fp': 25591, 'tp': 11863, 'fn': 74, 'len': 207058}]
+
+------ evaluating  kmeans blur 5 camel 4 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 1, '0191254': 0, '3413934': 2}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.820654200629
+accuracy for permutation (0, 2, 1) : 0.948217995845
+accuracy for permutation (1, 0, 2) : 0.00212206772859
+accuracy for permutation (1, 2, 0) : 0.164295988493
+accuracy for permutation (2, 0, 1) : 0.0150498108785
+accuracy for permutation (2, 1, 0) : 0.0496599364268
+best results : [{'tn': 25891, 'fp': 70, 'tp': 86665, 'fn': 0, 'len': 112626}, {'tn': 105231, 'fp': 235, 'tp': 1629, 'fn': 5531, 'len': 112626}, {'tn': 88298, 'fp': 5527, 'tp': 18500, 'fn': 301, 'len': 112626}]
+
+------ evaluating  kmeans blur 5 camel 8 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 1, '3413934': 0}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.778473228196
+accuracy for permutation (0, 2, 1) : 0.99945335775
+accuracy for permutation (1, 0, 2) : 0.000491978024982
+accuracy for permutation (1, 2, 0) : 0.220160166179
+accuracy for permutation (2, 0, 1) : 0.00136660562495
+accuracy for permutation (2, 1, 0) : 5.4664224998e-05
+best results : [{'tn': 8089, 'fp': 18, 'tp': 28480, 'fn': 0, 'len': 36587}, {'tn': 36517, 'fp': 0, 'tp': 50, 'fn': 20, 'len': 36587}, {'tn': 28548, 'fp': 2, 'tp': 8037, 'fn': 0, 'len': 36587}]
+
+------ evaluating  kmeans blur 5 camel 10 ------
+loading label...
+loading prediction...
+extracting cluster ids...
+{'000': 1, '124124124': 2, '255255255': 0}
+[0, 0, 0, 0, 0]
+{'13843225': 2, '0191254': 0, '3413934': 1}
+[0, 0, 0, 0, 0]
+normalizing to include only equally well defined pixels...
+finding min-error clusters...
+accuracy for permutation (0, 1, 2) : 0.956340606785
+accuracy for permutation (0, 2, 1) : 0.299086459423
+accuracy for permutation (1, 0, 2) : 0.357672619937
+accuracy for permutation (1, 2, 0) : 0.0435753250635
+accuracy for permutation (2, 0, 1) : 8.40681512479e-05
+accuracy for permutation (2, 1, 0) : 0.34324092064
+best results : [{'tn': 73057, 'fp': 2, 'tp': 30672, 'fn': 3325, 'len': 107056}, {'tn': 72290, 'fp': 1340, 'tp': 33419, 'fn': 7, 'len': 107056}, {'tn': 64091, 'fp': 3332, 'tp': 38291, 'fn': 1342, 'len': 107056}]
+total results :
+{'1': {'tn': 4.359028199533016, 'fp': 0.014987671477161395, 'tp': 1.4101016006822673, 'fn': 0.21588252830755514}, '0': {'tn': 3.07313889615778, 'fp': 0.002146938744344877, 'tp': 2.893602528453313, 'fn': 0.031111636644562023}, '2': {'tn': 4.304887544713633, 'fp': 0.24581074937406436, 'tp': 1.4333505112688494, 'fn': 0.01595119464345344}}
