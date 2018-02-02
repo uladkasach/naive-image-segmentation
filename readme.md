@@ -6,6 +6,9 @@ This project was developed with Python v2.7.12.
 
 This project is dependent on the python packages `Pillow` and `Scikitlearn`
 
+![source_example](https://raw.githubusercontent.com/uladkasach/naive-image-segmentation/master/src/images/source/camel_2.jpg)
+![kmeans_example](https://raw.githubusercontent.com/uladkasach/naive-image-segmentation/master/src/images/pred/kmeans/camel_2.jpg)
+
 ## requirements
 > You want to evaluate the classification performance of two methods and compare them in terms of accuracy
 For the classification problem, consider the segmentation of a grayscale image into THREE classes.
