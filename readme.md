@@ -1,8 +1,17 @@
-README:
+# Naive Image Segmentation
 
-This project uses Python v2.7.12.
+This project was completed as a homework assignment for the Biometrics course at IUPUI.
+
+This project was developed with Python v2.7.12.
 
 This project is dependent on the python packages `Pillow` and `Scikitlearn`
+
+## requirements
+> You want to evaluate the classification performance of two methods and compare them in terms of accuracy
+For the classification problem, consider the segmentation of a grayscale image into THREE classes.
+The first method is K-means (K=3), while you may choose any other method as the second classifier; the simplest choice would be setting two intensity thresholds.
+Your ground-truth should be the image manually segmented.
+
 
 ## completed deliverables
 - generating ground truth data
@@ -31,6 +40,3 @@ This project is dependent on the python packages `Pillow` and `Scikitlearn`
     - in order to conduct roc we need to vary something. I will be varying the source images by blurring them.
 - `build_report.py`
     - this script will have the functionality that will run segmentation on the remaining blurred images not yet segmented, then run evaluation on each set, then combine the results into an ROC curve
-
-## note
-this project has taken 9 hours. I had begun working on this before class. I have about one hour more to do untill it is fully completed.
